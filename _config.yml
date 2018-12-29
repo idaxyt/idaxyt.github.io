@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
-language:
-timezone:
+title: Ida
+subtitle: 不跳出舒适圈，你还有很大的下降空间
+description: Join me，Enjoy DataAnalysis
+keywords: DataAnalysis
+author: Ida Xie
+language: zh-Hans
+timezone: Asia/Beijing
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
